@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-Link to the analysis: 
+Link to the analysis: https://github.com/Mishauwa/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb
 
 ## Overview and Purpose of the analysis
 
